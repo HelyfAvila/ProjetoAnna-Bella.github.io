@@ -47,6 +47,7 @@ h1 {
 @media (max-width: 768px) {
     #principal {
         width: 100%;
+        display: block;
     }
     #conteudo {
         padding: 0.5em;
